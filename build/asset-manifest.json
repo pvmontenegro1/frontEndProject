@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd7dff12.css",
+    "main.js": "/static/js/main.d0982909.js",
+    "static/media/Espe.jpg": "/static/media/Espe.e34a3eb46ebbfe4e3c73.jpg",
+    "static/media/ESPE-Matriz-Sangolqui.png": "/static/media/ESPE-Matriz-Sangolqui.29038a22c77c3653faed.png",
+    "index.html": "/index.html",
+    "main.cd7dff12.css.map": "/static/css/main.cd7dff12.css.map",
+    "main.d0982909.js.map": "/static/js/main.d0982909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7dff12.css",
+    "static/js/main.d0982909.js"
+  ]
+}
